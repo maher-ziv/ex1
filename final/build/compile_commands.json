@@ -1,0 +1,27 @@
+[
+{
+  "directory": "C:/Users/maher/Desktop/mtm/ex1/final/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -std=c99  -Wall -pedantic-errors -Werror -g -O3 -DNDEBUG   -o CMakeFiles\\election.dir\\election.c.obj   -c C:\\Users\\maher\\Desktop\\mtm\\ex1\\final\\election.c",
+  "file": "C:/Users/maher/Desktop/mtm/ex1/final/election.c"
+},
+{
+  "directory": "C:/Users/maher/Desktop/mtm/ex1/final/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -std=c99  -Wall -pedantic-errors -Werror -g -O3 -DNDEBUG   -o CMakeFiles\\election.dir\\area.c.obj   -c C:\\Users\\maher\\Desktop\\mtm\\ex1\\final\\area.c",
+  "file": "C:/Users/maher/Desktop/mtm/ex1/final/area.c"
+},
+{
+  "directory": "C:/Users/maher/Desktop/mtm/ex1/final/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -std=c99  -Wall -pedantic-errors -Werror -g -O3 -DNDEBUG   -o CMakeFiles\\election.dir\\tribe.c.obj   -c C:\\Users\\maher\\Desktop\\mtm\\ex1\\final\\tribe.c",
+  "file": "C:/Users/maher/Desktop/mtm/ex1/final/tribe.c"
+},
+{
+  "directory": "C:/Users/maher/Desktop/mtm/ex1/final/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -std=c99  -Wall -pedantic-errors -Werror -g -O3 -DNDEBUG   -o CMakeFiles\\election.dir\\tests\\electionTests.c.obj   -c C:\\Users\\maher\\Desktop\\mtm\\ex1\\final\\tests\\electionTests.c",
+  "file": "C:/Users/maher/Desktop/mtm/ex1/final/tests/electionTests.c"
+},
+{
+  "directory": "C:/Users/maher/Desktop/mtm/ex1/final/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -std=c99  -Wall -pedantic-errors -Werror -g -O3 -DNDEBUG   -o CMakeFiles\\election.dir\\tests\\electionTestsMain.c.obj   -c C:\\Users\\maher\\Desktop\\mtm\\ex1\\final\\tests\\electionTestsMain.c",
+  "file": "C:/Users/maher/Desktop/mtm/ex1/final/tests/electionTestsMain.c"
+}
+]

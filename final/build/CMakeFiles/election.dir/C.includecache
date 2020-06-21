@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/maher/Desktop/mtm/ex1/final/election.h
+mtm_map/map.h
+C:/Users/maher/Desktop/mtm/ex1/final/mtm_map/map.h
+
+C:/Users/maher/Desktop/mtm/ex1/final/mtm_map/map.h
+stdbool.h
+-
+string.h
+-
+
+C:/Users/maher/Desktop/mtm/ex1/final/test_utilities.h
+stdbool.h
+-
+stdio.h
+-
+
+C:/Users/maher/Desktop/mtm/ex1/final/tests/electionTests.c
+stdlib.h
+-
+electionTests.h
+C:/Users/maher/Desktop/mtm/ex1/final/tests/electionTests.h
+../election.h
+C:/Users/maher/Desktop/mtm/ex1/final/election.h
+../test_utilities.h
+C:/Users/maher/Desktop/mtm/ex1/final/test_utilities.h
+
+C:/Users/maher/Desktop/mtm/ex1/final/tests/electionTests.h
+stdbool.h
+-
+
